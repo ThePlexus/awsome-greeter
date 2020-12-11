@@ -1,0 +1,27 @@
+{
+    "name": "awsome-greeter",
+    "version": "1.0.0",
+    "description": "An awsome greeter written in awsome Typescript!",
+    "main": "lib/index.js",
+    "scripts": {
+        "build": "tsc --build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThePlexus/awsome-greeter.git"
+    },
+    "author": "ThePlexus",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/ThePlexus/awsome-greeter/issues"
+    },
+    "homepage": "https://github.com/ThePlexus/awsome-greeter#readme",
+    "devDependencies": {
+        "typescript": "^4.1.2"
+    },
+    "dependencies": {},
+    "directories": {
+        "lib": "lib"
+    }
+}
