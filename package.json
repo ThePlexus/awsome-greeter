@@ -1,6 +1,6 @@
 {
     "name": "awsome-greeter",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An awsome greeter written in awsome Typescript!",
     "main": "lib/index.js",
     "scripts": {
